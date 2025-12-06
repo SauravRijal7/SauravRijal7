@@ -22,9 +22,10 @@ Passionate about building clean, fast, and user-friendly web apps.
 ---
 
 ## 📊 GitHub Stats
-![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravrijal7&show_icons=true)
+![Saurav's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sauravrijal7&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravrijal7)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sauravrijal7)
+
 
 ---
 
@@ -32,7 +33,7 @@ Passionate about building clean, fast, and user-friendly web apps.
 - 🌱 Currently learning **React + Firebase**
 - 🎨 I enjoy UI/UX designing
 - 💬 Ask me anything about web development
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: https://www.sauravrijal1.com.np/
 
 ---
 
