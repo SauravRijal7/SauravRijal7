@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile views](https://komarev.com/ghpvc/?username=SauravRijal7&label=Profile%20views&color=0e75b6&style=flat)
 
-![snake gif](https://github.com/SauravRijal7/SauravRijal7/blob/output/snake.svg)
 
 ---
 
