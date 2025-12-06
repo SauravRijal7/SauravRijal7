@@ -1,39 +1,51 @@
-# 👋 Hi, I'm Saurav Rijal
+- 👋 Hi, I’m Saurav Rijal
+- 🌱 I’m currently learning CSIT
+- 💞️ I’m looking to collaborate with IT companies
 
-### 🚀 Frontend Developer | React | JavaScript | UI/UX Enthusiast  
-Passionate about building clean, fast, and user-friendly web apps.
+<!---
+SauravRijal7/SauravRijal7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
----
+<div align="center">
 
-## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge)](https://www.sauravrijal1.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saurav-rijal-4100b6216/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/s.a.u______/)
+# 👋 Hi, I'm Saurav Rijal  
+💻 Front End Developer | 🎨 UI/UX Designer | 🤖 AI/ML Enthusiast  | 🚀 Tech Enthusiast  
 
----
+![Profile views](https://komarev.com/ghpvc/?username=SauravRijal7&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🛠️ Tech Stack
-### **Languages & Tools**
-- JavaScript | 
-- React.js  | Tailwind CSS  
-- pHp
-- Git | GitHub  
-- Firebase
----
-
-## 📊 GitHub Stats
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravrijal7&show_icons=true&theme=radical)
-
-
+![snake gif](https://github.com/SauravRijal7/SauravRijal7/blob/output/snake.svg)
 
 ---
 
-## ✨ About Me
-- 🌱 Currently learning **React + Firebase**
-- 🎨 I enjoy UI/UX designing
-- 💬 Ask me anything about web development
-- 📫 Reach me at: https://www.sauravrijal1.com.np/
+## 🧰 Tech Stack
+
+
+### 🖥️ Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 ---
 
-### Thanks for visiting my profile! 😊
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/SauravRijal7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/saurav-rijal-4100b6216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/s.a.u______/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
