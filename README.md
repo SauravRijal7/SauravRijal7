@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurav Rijal
 
-<!--
-**SauravRijal7/SauravRijal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | React | JavaScript | UI/UX Enthusiast  
+Passionate about building clean, fast, and user-friendly web apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge)](https://www.sauravrijal1.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saurav-rijal-4100b6216/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/s.a.u______/)
+
+---
+
+## 🛠️ Tech Stack
+### **Languages & Tools**
+- JavaScript | 
+- React.js  | Tailwind CSS  
+- pHp
+- Git | GitHub  
+- Firebase
+---
+
+## 📊 GitHub Stats
+![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravrijal7&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravrijal7)
+
+---
+
+## ✨ About Me
+- 🌱 Currently learning **React + Firebase**
+- 🎨 I enjoy UI/UX designing
+- 💬 Ask me anything about web development
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+### Thanks for visiting my profile! 😊
